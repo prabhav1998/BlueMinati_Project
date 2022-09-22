@@ -1,2 +1,2 @@
 BlueMinati
-Visual general purpose web scraping service
+General Purpose Web Scraping Service/Tool
